@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# Countdown to Christmas
 
 Quick start:
 
